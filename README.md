@@ -1,4 +1,3 @@
-# woowacourse
 <p align="center"><img src=https://images.velog.io/images/ohzzi/post/4ab19a59-f0bc-4d02-9b5f-5b03991400c5/woowacourse.jpg height=400px></p>
 
 ### [우아한테크코스](https://woowacourse.github.io/) 학습 내용을 정리합니다.
