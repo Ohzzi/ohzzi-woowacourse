@@ -26,3 +26,16 @@
 - [추상 클래스(Abstract Class)](https://velog.io/@ohzzi/%EC%B6%94%EC%83%81-%ED%81%B4%EB%9E%98%EC%8A%A4%EC%99%80-%EC%9D%B8%ED%84%B0%ED%8E%98%EC%9D%B4%EC%8A%A4)
 - [[제네릭(Generic)] (1) 누구냐 넌](https://velog.io/@ohzzi/Generic-1-Generic-who-are-you)
 - [[제네릭(Generic)] (2) 이것만은 주의해줘](https://velog.io/@ohzzi/Generic-2)
+
+---
+### :loudspeaker: Level 2 (2022.04.19. ~ 06.10.)
+|Project|Repository|Pull Requests|
+|-|-|-|
+|웹 기반 체스|[jwp-chess](https://github.com/woowacourse/jwp-chess/tree/ohzzi)|[1단계 - 체스](https://github.com/woowacourse/jwp-chess/pull/370)</br>[2단계 - 체스](https://github.com/woowacourse/jwp-chess/pull/413)|
+
+### :mag_right: 학습 로그
+- [SpringBoot 테스트에 테스트용 데이터베이스 연결하기](https://velog.io/@ohzzi/SpringBoot-%ED%85%8C%EC%8A%A4%ED%8A%B8%EC%97%90-%ED%85%8C%EC%8A%A4%ED%8A%B8%EC%9A%A9-%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4-%EC%97%B0%EA%B2%B0%ED%95%98%EA%B8%B0)
+- [[Spring with Docs] Spring Boot가 데이터베이스를 읽어오는 방법을 공식 문서를 통해 알아보자](https://velog.io/@ohzzi/Spring-Boot%EA%B0%80-%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4%EB%A5%BC-%EC%9D%BD%EC%96%B4%EC%98%A4%EB%8A%94-%EB%B0%A9%EB%B2%95%EC%9D%84-%EA%B3%B5%EC%8B%9D-%EB%AC%B8%EC%84%9C%EB%A5%BC-%ED%86%B5%ED%95%B4-%EC%95%8C%EC%95%84%EB%B3%B4%EC%9E%90)
+- [[Spring with Docs] Spring 통합 테스트 시 데이터베이스 충돌이 발생했던 이유를 공식 문서를 통해 알아보자](https://velog.io/@ohzzi/Spring-%ED%86%B5%ED%95%A9-%ED%85%8C%EC%8A%A4%ED%8A%B8-%EC%8B%9C-%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4-%EC%B6%A9%EB%8F%8C%EC%9D%B4-%EB%B0%9C%EC%83%9D%ED%95%98%EB%8A%94-%EC%9D%B4%EC%9C%A0%EB%A5%BC-%EA%B3%B5%EC%8B%9D-%EB%AC%B8%EC%84%9C%EB%A5%BC-%ED%86%B5%ED%95%B4-%EC%95%8C%EC%95%84%EB%B3%B4%EC%9E%90)
+- [[Spring DI/IoC] IoC? DI? 그게 뭔데?](https://velog.io/@ohzzi/Spring-DIIoC-IoC-DI-%EA%B7%B8%EA%B2%8C-%EB%AD%94%EB%8D%B0)
+- [[Spring DI/IoC] 스프링의 의존성 주입 (1) - 의존성 주입 방법](https://velog.io/@ohzzi/Spring-DIIoC-%EC%8A%A4%ED%94%84%EB%A7%81%EC%9D%98-%EC%9D%98%EC%A1%B4%EC%84%B1-%EC%A3%BC%EC%9E%85)
