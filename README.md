@@ -32,6 +32,9 @@
 |Project|Repository|Pull Requests|
 |-|-|-|
 |웹 기반 체스|[jwp-chess](https://github.com/woowacourse/jwp-chess/tree/ohzzi)|[1단계 - 체스](https://github.com/woowacourse/jwp-chess/pull/370)</br>[2단계 - 체스](https://github.com/woowacourse/jwp-chess/pull/413)|
+|지하철 노선도|[atdd-subway-map](https://github.com/woowacourse/atdd-subway-map)|[1,2단계 - 지하철 노선도](https://github.com/woowacourse/atdd-subway-map/pull/179)</br>[3단계 - 지하철 노선도](https://github.com/woowacourse/atdd-subway-map/pull/323)|
+|지하철 경로 조회|[atdd-subway-path](https://github.com/woowacourse/atdd-subway-path)|[1단계 - Spring 경로 조회](https://github.com/woowacourse/atdd-subway-path/pull/226)</br>[2단계 - Spring 경로 조회](https://github.com/woowacourse/atdd-subway-path/pull/269)|
+|장바구니 - 협업|[jwp-shopping-cart](https://github.com/woowacourse/jwp-shopping-cart)|[1단계 - Spring 장바구니](https://github.com/woowacourse/jwp-shopping-cart/pull/8)</br>[2단계 - Spring 장바구니](https://github.com/woowacourse/jwp-shopping-cart/pull/98)|
 
 ### :mag_right: 학습 로그
 - [SpringBoot 테스트에 테스트용 데이터베이스 연결하기](https://velog.io/@ohzzi/SpringBoot-%ED%85%8C%EC%8A%A4%ED%8A%B8%EC%97%90-%ED%85%8C%EC%8A%A4%ED%8A%B8%EC%9A%A9-%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4-%EC%97%B0%EA%B2%B0%ED%95%98%EA%B8%B0)
@@ -39,3 +42,7 @@
 - [[Spring with Docs] Spring 통합 테스트 시 데이터베이스 충돌이 발생했던 이유를 공식 문서를 통해 알아보자](https://velog.io/@ohzzi/Spring-%ED%86%B5%ED%95%A9-%ED%85%8C%EC%8A%A4%ED%8A%B8-%EC%8B%9C-%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4-%EC%B6%A9%EB%8F%8C%EC%9D%B4-%EB%B0%9C%EC%83%9D%ED%95%98%EB%8A%94-%EC%9D%B4%EC%9C%A0%EB%A5%BC-%EA%B3%B5%EC%8B%9D-%EB%AC%B8%EC%84%9C%EB%A5%BC-%ED%86%B5%ED%95%B4-%EC%95%8C%EC%95%84%EB%B3%B4%EC%9E%90)
 - [[Spring DI/IoC] IoC? DI? 그게 뭔데?](https://velog.io/@ohzzi/Spring-DIIoC-IoC-DI-%EA%B7%B8%EA%B2%8C-%EB%AD%94%EB%8D%B0)
 - [[Spring DI/IoC] 스프링의 의존성 주입 (1) - 의존성 주입 방법](https://velog.io/@ohzzi/Spring-DIIoC-%EC%8A%A4%ED%94%84%EB%A7%81%EC%9D%98-%EC%9D%98%EC%A1%B4%EC%84%B1-%EC%A3%BC%EC%9E%85)
+- [[Spring DI/IoC] 스프링의 의존성 주입 (2) - DI/IoC 컨테이너와 우선순위](https://velog.io/@ohzzi/Spring-DIIoC-%EC%8A%A4%ED%94%84%EB%A7%81%EC%9D%98-%EC%9D%98%EC%A1%B4%EC%84%B1-%EC%A3%BC%EC%9E%85-2-DIIoC-%EC%BB%A8%ED%85%8C%EC%9D%B4%EB%84%88%EC%99%80-%EC%9A%B0%EC%84%A0%EC%88%9C%EC%9C%84)
+- [내 @ModelAttribute와 @RequestBody는 왜 안 만들어질까?](https://prolog.techcourse.co.kr/studylogs/2384)
+- [당신의 @JdbcTest는 잘못됐을지도 모릅니다](https://prolog.techcourse.co.kr/studylogs/2409)
+- [CORS 허용 좀 해주세요...☆](https://prolog.techcourse.co.kr/studylogs/2414)
