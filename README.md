@@ -79,7 +79,7 @@
 - [REST Docs "어딜 보시는 거죠? 그건 제 잔상입니다만?"](https://velog.io/@ohzzi/REST-Docs-%EC%96%B4%EB%94%9C-%EB%B3%B4%EC%8B%9C%EB%8A%94-%EA%B1%B0%EC%A3%A0-%EA%B7%B8%EA%B1%B4-%EC%A0%9C-%EC%9E%94%EC%83%81%EC%9E%85%EB%8B%88%EB%8B%A4%EB%A7%8C)
 - [Lombok의 @Builder를 사용할 때 필드의 기본값 설정하기](https://velog.io/@ohzzi/Lombok%EC%9D%98-Builder%EB%A5%BC-%EC%82%AC%EC%9A%A9%ED%95%A0-%EB%95%8C-%ED%95%84%EB%93%9C%EC%9D%98-%EA%B8%B0%EB%B3%B8%EA%B0%92-%EC%84%A4%EC%A0%95%ED%95%98%EA%B8%B0)
 - [API의 쿼리 개수 세기 - (1) 하이버네이트를 이용한 카운팅](https://velog.io/@ohzzi/API%EC%9D%98-%EC%BF%BC%EB%A6%AC-%EA%B0%9C%EC%88%98-%EC%84%B8%EA%B8%B0-1-%ED%95%98%EC%9D%B4%EB%B2%84%EB%84%A4%EC%9D%B4%ED%8A%B8%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%9C-%EC%B9%B4%EC%9A%B4%ED%8C%85)
-- [F12 개발일지](https://velog.io/@ohzzi/%EC%9A%B0%EC%95%84%ED%95%9C%ED%85%8C%ED%81%AC%EC%BD%94%EC%8A%A4-4%EA%B8%B0-220628-F12-%EA%B0%9C%EB%B0%9C%EC%9D%BC%EC%A7%80)
 
 ### :pencil: 글쓰기
 - [팀 프로젝트가 나에게 남긴 것](https://velog.io/@ohzzi/%EC%9A%B0%EC%95%84%ED%95%9C%ED%85%8C%ED%81%AC%EC%BD%94%EC%8A%A4-4%EA%B8%B0-%ED%8C%80-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EA%B0%80-%EB%82%98%EC%97%90%EA%B2%8C-%EB%82%A8%EA%B8%B4-%EA%B2%83-dmm0xi4i)
+- [F12 개발일지](https://velog.io/@ohzzi/%EC%9A%B0%EC%95%84%ED%95%9C%ED%85%8C%ED%81%AC%EC%BD%94%EC%8A%A4-4%EA%B8%B0-220628-F12-%EA%B0%9C%EB%B0%9C%EC%9D%BC%EC%A7%80)
