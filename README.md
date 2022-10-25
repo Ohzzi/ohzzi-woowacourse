@@ -46,7 +46,7 @@
 - [[Spring DI/IoC] 스프링의 의존성 주입 (2) - DI/IoC 컨테이너와 우선순위](https://velog.io/@ohzzi/Spring-DIIoC-%EC%8A%A4%ED%94%84%EB%A7%81%EC%9D%98-%EC%9D%98%EC%A1%B4%EC%84%B1-%EC%A3%BC%EC%9E%85-2-DIIoC-%EC%BB%A8%ED%85%8C%EC%9D%B4%EB%84%88%EC%99%80-%EC%9A%B0%EC%84%A0%EC%88%9C%EC%9C%84)
 - [내 @ModelAttribute와 @RequestBody는 왜 안 만들어질까?](https://prolog.techcourse.co.kr/studylogs/2384)
 - [당신의 @JdbcTest는 잘못됐을지도 모릅니다](https://prolog.techcourse.co.kr/studylogs/2409)
-- [CORS 허용 좀 해주세요...☆](https://prolog.techcourse.co.kr/studylogs/2414)
+- [CORS 허용 좀 해주세요...☆](https://velog.io/@ohzzi/CORS-%ED%97%88%EC%9A%A9-%EC%A2%80-%ED%95%B4%EC%A3%BC%EC%84%B8%EC%9A%94)
 
 ### :pencil: 글쓰기
 - [우테코에서 찾은 나만의 효과적인 공부법](https://velog.io/@ohzzi/%EC%9A%B0%EC%95%84%ED%95%9C%ED%85%8C%ED%81%AC%EC%BD%94%EC%8A%A4-4%EA%B8%B0-%EC%9A%B0%ED%85%8C%EC%BD%94%EC%97%90%EC%84%9C-%EC%B0%BE%EC%9D%80-%EB%82%98%EB%A7%8C%EC%9D%98-%ED%9A%A8%EA%B3%BC%EC%A0%81%EC%9D%B8-%EA%B3%B5%EB%B6%80%EB%B2%95)
@@ -98,3 +98,6 @@
 - [Access Token과 Refresh Token을 어디에 저장해야 할까?](https://velog.io/@ohzzi/Access-Token%EA%B3%BC-Refresh-Token%EC%9D%84-%EC%96%B4%EB%94%94%EC%97%90-%EC%A0%80%EC%9E%A5%ED%95%B4%EC%95%BC-%ED%95%A0%EA%B9%8C)
 - [[Spring Data JPA] findByXXXId 는 불필요한 join을 유발한다](https://velog.io/@ohzzi/Data-Jpa-findByXXXId-%EB%8A%94-%EB%B6%88%ED%95%84%EC%9A%94%ED%95%9C-join%EC%9D%84-%EC%9C%A0%EB%B0%9C%ED%95%9C%EB%8B%A4)
 - [F12의 눈물나는 쿼리 개선기 - 이론편](https://velog.io/@ohzzi/F12%EC%9D%98-%EB%88%88%EB%AC%BC%EB%82%98%EB%8A%94-%EC%BF%BC%EB%A6%AC-%EA%B0%9C%EC%84%A0%EA%B8%B0-%EC%9D%B4%EB%A1%A0%ED%8E%B8)
+- [F12의 눈물나는 쿼리 개선기 - 실전편](https://velog.io/@ohzzi/F12%EC%9D%98-%EB%88%88%EB%AC%BC%EB%82%98%EB%8A%94-%EC%BF%BC%EB%A6%AC-%EA%B0%9C%EC%84%A0%EA%B8%B0-%EC%8B%A4%EC%A0%84%ED%8E%B8)
+- [쿠키를 사용한 API 통신을 할 때 주의할 점](https://velog.io/@ohzzi/%EC%BF%A0%ED%82%A4%EB%A5%BC-%EC%82%AC%EC%9A%A9%ED%95%9C-API-%ED%86%B5%EC%8B%A0%EC%9D%84-%ED%95%A0-%EB%95%8C-%EC%A3%BC%EC%9D%98%ED%95%A0-%EC%A0%90)
+- [동시성 그리고 정합성, 문제 해결기](https://velog.io/@ohzzi/%EB%B0%98%EC%A0%95%EA%B7%9C%ED%99%94-%EC%9D%B4%ED%9B%84-%EB%8F%99%EC%8B%9C%EC%84%B1-%EB%AC%B8%EC%A0%9C-%ED%95%B4%EA%B2%B0%ED%95%98%EA%B8%B0)
