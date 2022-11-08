@@ -86,14 +86,14 @@
 - [F12 개발일지](https://velog.io/@ohzzi/%EC%9A%B0%EC%95%84%ED%95%9C%ED%85%8C%ED%81%AC%EC%BD%94%EC%8A%A4-4%EA%B8%B0-220628-F12-%EA%B0%9C%EB%B0%9C%EC%9D%BC%EC%A7%80)
 
 
-## :loudspeaker: Level 4 (2022.08.30. ~ )
+## :loudspeaker: Level 4 (2022.08.30. ~ 10.28.)
 
 |Project|Repository|Pull Requests|
 |-|-|-|
 |톰캣 구현하기|[jwp-dashboard-http](https://github.com/woowacourse/jwp-dashboard-http)|[1단계](https://github.com/woowacourse/jwp-dashboard-http/pull/129)</br>[2단계](https://github.com/woowacourse/jwp-dashboard-http/pull/209)</br>[3,4단계](https://github.com/woowacourse/jwp-dashboard-http/pull/299)|
 |`@MVC` 구현하기|[jwp-dashboard-mvc](https://github.com/woowacourse/jwp-dashboard-mvc)|[1단계](https://github.com/woowacourse/jwp-dashboard-mvc/pull/119)</br>[2단계](https://github.com/woowacourse/jwp-dashboard-mvc/pull/222)</br>[3단계](https://github.com/woowacourse/jwp-dashboard-mvc/pull/255)|
 |JDBC 라이브러리 구현하기|[jwp-dashboard-jdbc](https://github.com/woowacourse/jwp-dashboard-jdbc)|[1단계](https://github.com/woowacourse/jwp-dashboard-jdbc/pull/56)</br>[2단계](https://github.com/woowacourse/jwp-dashboard-jdbc/pull/130)</br>[3단계](https://github.com/woowacourse/jwp-dashboard-jdbc/pull/254)|
-|레거시 코드 리팩토링|[jwp-refactoring](https://github.com/woowacourse/jwp-refactoring)|[1단계](https://github.com/woowacourse/jwp-refactoring/pull/204)</br>[2단계](https://github.com/woowacourse/jwp-refactoring/pull/301)</br>[3단계](https://github.com/woowacourse/jwp-refactoring/pull/363)|
+|레거시 코드 리팩토링|[jwp-refactoring](https://github.com/woowacourse/jwp-refactoring)|[1단계](https://github.com/woowacourse/jwp-refactoring/pull/204)</br>[2단계](https://github.com/woowacourse/jwp-refactoring/pull/301)</br>[3단계](https://github.com/woowacourse/jwp-refactoring/pull/363)</br>[4단계](https://github.com/woowacourse/jwp-refactoring/pull/418)|
 
 ### :mag_right: 학습 로그
 - [의존성을 고려하여 우아하게 설계하기(feat. DIP)](https://velog.io/@ohzzi/%EC%9D%98%EC%A1%B4%EC%84%B1%EC%9D%84-%EA%B3%A0%EB%A0%A4%ED%95%98%EC%97%AC-%EC%9A%B0%EC%95%84%ED%95%98%EA%B2%8C-%EC%84%A4%EA%B3%84%ED%95%98%EA%B8%B0)
