@@ -83,7 +83,7 @@
 
 ### :pencil: 글쓰기
 - [팀 프로젝트가 나에게 남긴 것](https://velog.io/@ohzzi/%EC%9A%B0%EC%95%84%ED%95%9C%ED%85%8C%ED%81%AC%EC%BD%94%EC%8A%A4-4%EA%B8%B0-%ED%8C%80-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EA%B0%80-%EB%82%98%EC%97%90%EA%B2%8C-%EB%82%A8%EA%B8%B4-%EA%B2%83-dmm0xi4i)
-- [F12 개발일지](https://velog.io/@ohzzi/%EC%9A%B0%EC%95%84%ED%95%9C%ED%85%8C%ED%81%AC%EC%BD%94%EC%8A%A4-4%EA%B8%B0-220628-F12-%EA%B0%9C%EB%B0%9C%EC%9D%BC%EC%A7%80)
+- [F12 개발일지](https://velog.io/@ohzzi?tag=%EA%B0%9C%EB%B0%9C%EC%9D%BC%EC%A7%80)
 
 
 ## :loudspeaker: Level 4 (2022.08.30. ~ 10.28.)
