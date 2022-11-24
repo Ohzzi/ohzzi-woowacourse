@@ -113,3 +113,4 @@
 - [스프링은 어떻게 @Bean의 싱글턴을 보장할까?](https://velog.io/@ohzzi/%EC%8A%A4%ED%94%84%EB%A7%81%EC%9D%80-%EC%96%B4%EB%96%BB%EA%B2%8C-Bean%EC%9D%98-%EC%8B%B1%EA%B8%80%ED%84%B4%EC%9D%84-%EB%B3%B4%EC%9E%A5%ED%95%A0%EA%B9%8C)
 - [@OneToMany 단방향 매핑의 update 쿼리를 없애려면 어떻게 해야 할까?](https://velog.io/@ohzzi/OneToMany-%EB%8B%A8%EB%B0%A9%ED%96%A5-%EB%A7%A4%ED%95%91%EC%9D%98-update-%EC%BF%BC%EB%A6%AC%EB%A5%BC-%EC%97%86%EC%95%A0%EB%A0%A4%EB%A9%B4-%EC%96%B4%EB%96%BB%EA%B2%8C-%ED%95%B4%EC%95%BC-%ED%95%A0%EA%B9%8C)
 - [JPA Hibernate 프록시 제대로 알고 쓰기](https://tecoble.techcourse.co.kr/post/2022-10-17-jpa-hibernate-proxy/)
+- [동기-비동기, 블로킹-논블로킹, 대체 차이가 뭐에요?](https://velog.io/@ohzzi/%EB%8F%99%EA%B8%B0-%EB%B9%84%EB%8F%99%EA%B8%B0-%EB%B8%94%EB%A1%9C%ED%82%B9-%EB%85%BC%EB%B8%94%EB%A1%9C%ED%82%B9-%EB%8C%80%EC%B2%B4-%EC%B0%A8%EC%9D%B4%EA%B0%80-%EB%AD%90%EC%97%90%EC%9A%94)
